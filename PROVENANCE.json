@@ -1,0 +1,10 @@
+{
+  "upstream": "c1cad4/CybOS-demo",
+  "base_commit": "dddcd76d76bf1f8d26b07e3a761908bc1ea7966b",
+  "files": [
+    {
+      "source": "src/models.rs",
+      "note": "Public models / worker contract extracted from the native application; further ownership is in this library."
+    }
+  ]
+}

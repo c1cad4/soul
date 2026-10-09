@@ -1,0 +1,10 @@
+[package]
+name = "cyb-soul"
+version = "0.1.0"
+edition = "2024"
+description = "soul component of the cybOS ecosystem"
+repository = "https://github.com/c1cad4/soul"
+publish = false
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
